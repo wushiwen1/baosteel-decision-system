@@ -1,0 +1,56 @@
+[2020-11-27 17:54:25,246] - INFO - creating snap7 client
+[2020-11-27 17:54:25,246] - INFO - creating snap7 client
+[2020-11-27 17:54:25,246] - INFO - creating snap7 client
+[2020-11-27 17:54:25,246] - INFO - creating snap7 client
+[2020-11-27 17:54:25,247] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-27 17:54:25,247] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-27 17:54:25,247] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-27 17:54:25,247] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-27 17:54:25,247] - DEBUG - setting param number 2 to 102
+[2020-11-27 17:54:25,247] - DEBUG - setting param number 2 to 102
+[2020-11-27 17:54:25,247] - DEBUG - setting param number 2 to 102
+[2020-11-27 17:54:25,247] - DEBUG - setting param number 2 to 102
+[2020-11-27 17:54:25,358] - INFO - C:\Users\Administrator\Desktop\baosteel-decision-system\statesClient\states_output.py - modbus_server - 建立1号站MODBUS-TCP服务器
+[2020-11-27 17:54:25,358] - INFO - C:\Users\Administrator\Desktop\baosteel-decision-system\statesClient\states_output.py - modbus_server - 建立1号站MODBUS-TCP服务器
+[2020-11-27 17:54:25,358] - INFO - C:\Users\Administrator\Desktop\baosteel-decision-system\statesClient\states_output.py - modbus_server - 建立1号站MODBUS-TCP服务器
+[2020-11-27 17:54:25,358] - INFO - C:\Users\Administrator\Desktop\baosteel-decision-system\statesClient\states_output.py - modbus_server - 建立1号站MODBUS-TCP服务器
+[2020-11-27 17:54:25,363] - INFO - C:\Users\Administrator\Desktop\baosteel-decision-system\statesClient\states_output.py - allocating_address - 1号站分配MODBUS-TCP地址
+[2020-11-27 17:54:25,363] - INFO - C:\Users\Administrator\Desktop\baosteel-decision-system\statesClient\states_output.py - allocating_address - 1号站分配MODBUS-TCP地址
+[2020-11-27 17:54:25,363] - INFO - C:\Users\Administrator\Desktop\baosteel-decision-system\statesClient\states_output.py - allocating_address - 1号站分配MODBUS-TCP地址
+[2020-11-27 17:54:25,363] - INFO - C:\Users\Administrator\Desktop\baosteel-decision-system\statesClient\states_output.py - allocating_address - 1号站分配MODBUS-TCP地址
+[2020-11-27 17:54:25,365] - INFO - C:/Users/Administrator/Desktop/baosteel-decision-system/statesClient/run_states.py - run - 数据连接成功
+[2020-11-27 17:54:25,365] - INFO - C:/Users/Administrator/Desktop/baosteel-decision-system/statesClient/run_states.py - run - 数据连接成功
+[2020-11-27 17:54:25,365] - INFO - C:/Users/Administrator/Desktop/baosteel-decision-system/statesClient/run_states.py - run - 数据连接成功
+[2020-11-27 17:54:25,365] - INFO - C:/Users/Administrator/Desktop/baosteel-decision-system/statesClient/run_states.py - run - 数据连接成功
+[2020-11-27 17:54:25,367] - INFO - C:/Users/Administrator/Desktop/baosteel-decision-system/statesClient/run_states.py - run - 数据开始交互
+[2020-11-27 17:54:25,367] - INFO - C:/Users/Administrator/Desktop/baosteel-decision-system/statesClient/run_states.py - run - 数据开始交互
+[2020-11-27 17:54:25,367] - INFO - C:/Users/Administrator/Desktop/baosteel-decision-system/statesClient/run_states.py - run - 数据开始交互
+[2020-11-27 17:54:25,367] - INFO - C:/Users/Administrator/Desktop/baosteel-decision-system/statesClient/run_states.py - run - 数据开始交互
+[2020-11-27 17:54:25,419] - INFO - ('192.168.0.9', 5166) is connected with socket 948...
+[2020-11-27 17:54:25,419] - INFO - ('192.168.0.9', 5166) is connected with socket 948...
+[2020-11-27 17:54:25,419] - INFO - ('192.168.0.9', 5166) is connected with socket 948...
+[2020-11-27 17:54:25,419] - INFO - ('192.168.0.9', 5166) is connected with socket 948...
+[2020-11-27 17:54:26,367] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-27 17:54:26,367] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-27 17:54:26,367] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-27 17:54:26,367] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-27 17:54:26,377] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-11-27 17:54:26,377] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-11-27 17:54:26,377] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-11-27 17:54:26,377] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-11-27 17:54:27,390] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-27 17:54:27,390] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-27 17:54:27,390] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-27 17:54:27,390] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-27 17:54:27,397] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-11-27 17:54:27,397] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-11-27 17:54:27,397] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-11-27 17:54:27,397] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-11-27 17:54:28,409] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-27 17:54:28,409] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-27 17:54:28,409] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-27 17:54:28,409] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-27 17:54:28,416] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-11-27 17:54:28,416] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-11-27 17:54:28,416] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-11-27 17:54:28,416] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2

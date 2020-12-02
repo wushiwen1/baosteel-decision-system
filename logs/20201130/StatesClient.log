@@ -1,0 +1,95 @@
+[2020-11-30 10:56:35,276] - INFO - creating snap7 client
+[2020-11-30 10:56:35,276] - INFO - creating snap7 client
+[2020-11-30 10:56:35,276] - INFO - creating snap7 client
+[2020-11-30 10:56:35,276] - INFO - creating snap7 client
+[2020-11-30 10:56:35,276] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 10:56:35,276] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 10:56:35,276] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 10:56:35,276] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 10:56:35,276] - DEBUG - setting param number 2 to 102
+[2020-11-30 10:56:35,276] - DEBUG - setting param number 2 to 102
+[2020-11-30 10:56:35,276] - DEBUG - setting param number 2 to 102
+[2020-11-30 10:56:35,276] - DEBUG - setting param number 2 to 102
+[2020-11-30 10:56:36,397] - ERROR - C:/Users/Administrator/Desktop/baosteel-decision-system/statesClient/run_states.py - run - [WinError 10061] 由于目标计算机积极拒绝，无法连接。 导致通讯连接失败
+[2020-11-30 10:56:36,397] - ERROR - C:/Users/Administrator/Desktop/baosteel-decision-system/statesClient/run_states.py - run - [WinError 10061] 由于目标计算机积极拒绝，无法连接。 导致通讯连接失败
+[2020-11-30 10:56:36,397] - ERROR - C:/Users/Administrator/Desktop/baosteel-decision-system/statesClient/run_states.py - run - [WinError 10061] 由于目标计算机积极拒绝，无法连接。 导致通讯连接失败
+[2020-11-30 10:56:36,397] - ERROR - C:/Users/Administrator/Desktop/baosteel-decision-system/statesClient/run_states.py - run - [WinError 10061] 由于目标计算机积极拒绝，无法连接。 导致通讯连接失败
+[2020-11-30 10:56:36,399] - INFO - creating snap7 client
+[2020-11-30 10:56:36,399] - INFO - creating snap7 client
+[2020-11-30 10:56:36,399] - INFO - creating snap7 client
+[2020-11-30 10:56:36,399] - INFO - creating snap7 client
+[2020-11-30 10:56:36,399] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 10:56:36,399] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 10:56:36,399] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 10:56:36,399] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 10:56:36,399] - DEBUG - setting param number 2 to 102
+[2020-11-30 10:56:36,399] - DEBUG - setting param number 2 to 102
+[2020-11-30 10:56:36,399] - DEBUG - setting param number 2 to 102
+[2020-11-30 10:56:36,399] - DEBUG - setting param number 2 to 102
+[2020-11-30 10:56:37,479] - ERROR - C:/Users/Administrator/Desktop/baosteel-decision-system/statesClient/run_states.py - run - [WinError 10061] 由于目标计算机积极拒绝，无法连接。 导致通讯连接失败
+[2020-11-30 10:56:37,479] - ERROR - C:/Users/Administrator/Desktop/baosteel-decision-system/statesClient/run_states.py - run - [WinError 10061] 由于目标计算机积极拒绝，无法连接。 导致通讯连接失败
+[2020-11-30 10:56:37,479] - ERROR - C:/Users/Administrator/Desktop/baosteel-decision-system/statesClient/run_states.py - run - [WinError 10061] 由于目标计算机积极拒绝，无法连接。 导致通讯连接失败
+[2020-11-30 10:56:37,479] - ERROR - C:/Users/Administrator/Desktop/baosteel-decision-system/statesClient/run_states.py - run - [WinError 10061] 由于目标计算机积极拒绝，无法连接。 导致通讯连接失败
+[2020-11-30 10:56:37,479] - INFO - creating snap7 client
+[2020-11-30 10:56:37,479] - INFO - creating snap7 client
+[2020-11-30 10:56:37,479] - INFO - creating snap7 client
+[2020-11-30 10:56:37,479] - INFO - creating snap7 client
+[2020-11-30 10:56:37,480] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 10:56:37,480] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 10:56:37,480] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 10:56:37,480] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 10:56:37,480] - DEBUG - setting param number 2 to 102
+[2020-11-30 10:56:37,480] - DEBUG - setting param number 2 to 102
+[2020-11-30 10:56:37,480] - DEBUG - setting param number 2 to 102
+[2020-11-30 10:56:37,480] - DEBUG - setting param number 2 to 102
+[2020-11-30 10:56:38,549] - ERROR - C:/Users/Administrator/Desktop/baosteel-decision-system/statesClient/run_states.py - run - [WinError 10061] 由于目标计算机积极拒绝，无法连接。 导致通讯连接失败
+[2020-11-30 10:56:38,549] - ERROR - C:/Users/Administrator/Desktop/baosteel-decision-system/statesClient/run_states.py - run - [WinError 10061] 由于目标计算机积极拒绝，无法连接。 导致通讯连接失败
+[2020-11-30 10:56:38,549] - ERROR - C:/Users/Administrator/Desktop/baosteel-decision-system/statesClient/run_states.py - run - [WinError 10061] 由于目标计算机积极拒绝，无法连接。 导致通讯连接失败
+[2020-11-30 10:56:38,549] - ERROR - C:/Users/Administrator/Desktop/baosteel-decision-system/statesClient/run_states.py - run - [WinError 10061] 由于目标计算机积极拒绝，无法连接。 导致通讯连接失败
+[2020-11-30 10:56:38,550] - INFO - creating snap7 client
+[2020-11-30 10:56:38,550] - INFO - creating snap7 client
+[2020-11-30 10:56:38,550] - INFO - creating snap7 client
+[2020-11-30 10:56:38,550] - INFO - creating snap7 client
+[2020-11-30 10:56:38,550] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 10:56:38,550] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 10:56:38,550] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 10:56:38,550] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 10:56:38,550] - DEBUG - setting param number 2 to 102
+[2020-11-30 10:56:38,550] - DEBUG - setting param number 2 to 102
+[2020-11-30 10:56:38,550] - DEBUG - setting param number 2 to 102
+[2020-11-30 10:56:38,550] - DEBUG - setting param number 2 to 102
+[2020-11-30 10:56:39,611] - ERROR - C:/Users/Administrator/Desktop/baosteel-decision-system/statesClient/run_states.py - run - [WinError 10061] 由于目标计算机积极拒绝，无法连接。 导致通讯连接失败
+[2020-11-30 10:56:39,611] - ERROR - C:/Users/Administrator/Desktop/baosteel-decision-system/statesClient/run_states.py - run - [WinError 10061] 由于目标计算机积极拒绝，无法连接。 导致通讯连接失败
+[2020-11-30 10:56:39,611] - ERROR - C:/Users/Administrator/Desktop/baosteel-decision-system/statesClient/run_states.py - run - [WinError 10061] 由于目标计算机积极拒绝，无法连接。 导致通讯连接失败
+[2020-11-30 10:56:39,611] - ERROR - C:/Users/Administrator/Desktop/baosteel-decision-system/statesClient/run_states.py - run - [WinError 10061] 由于目标计算机积极拒绝，无法连接。 导致通讯连接失败
+[2020-11-30 10:56:39,612] - INFO - creating snap7 client
+[2020-11-30 10:56:39,612] - INFO - creating snap7 client
+[2020-11-30 10:56:39,612] - INFO - creating snap7 client
+[2020-11-30 10:56:39,612] - INFO - creating snap7 client
+[2020-11-30 10:56:39,612] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 10:56:39,612] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 10:56:39,612] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 10:56:39,612] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 10:56:39,612] - DEBUG - setting param number 2 to 102
+[2020-11-30 10:56:39,612] - DEBUG - setting param number 2 to 102
+[2020-11-30 10:56:39,612] - DEBUG - setting param number 2 to 102
+[2020-11-30 10:56:39,612] - DEBUG - setting param number 2 to 102
+[2020-11-30 14:05:07,917] - INFO - creating snap7 client
+[2020-11-30 14:05:07,924] - INFO - creating snap7 client
+[2020-11-30 14:05:07,924] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 14:05:07,924] - DEBUG - setting param number 2 to 102
+[2020-11-30 14:05:08,026] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 14:05:08,039] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 14:05:08,047] - DEBUG - writing area: 132 dbnumber: 1 start: 2: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 14:05:08,060] - DEBUG - writing area: 132 dbnumber: 1 start: 3: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 14:05:08,068] - DEBUG - writing area: 132 dbnumber: 1 start: 4: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 14:05:08,078] - DEBUG - writing area: 132 dbnumber: 1 start: 5: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 14:05:08,086] - DEBUG - writing area: 132 dbnumber: 1 start: 6: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 14:05:08,097] - DEBUG - writing area: 132 dbnumber: 1 start: 7: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 14:05:08,105] - DEBUG - writing area: 132 dbnumber: 1 start: 8: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 14:05:08,115] - DEBUG - writing area: 132 dbnumber: 1 start: 9: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 14:05:08,123] - DEBUG - writing area: 132 dbnumber: 1 start: 10: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 14:05:08,134] - DEBUG - writing area: 132 dbnumber: 1 start: 11: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 14:05:08,170] - DEBUG - writing area: 132 dbnumber: 1 start: 12: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 14:05:08,194] - DEBUG - writing area: 132 dbnumber: 1 start: 13: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 14:05:08,212] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2

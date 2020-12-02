@@ -1,0 +1,36 @@
+[2020-12-01 10:58:06,090] - INFO - creating snap7 client
+[2020-12-01 10:58:06,091] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-12-01 10:58:06,091] - DEBUG - setting param number 2 to 102
+[2020-12-01 10:58:06,154] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 10:58:06,164] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 10:58:06,172] - DEBUG - writing area: 132 dbnumber: 1 start: 2: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 10:58:06,182] - DEBUG - writing area: 132 dbnumber: 1 start: 3: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 10:58:06,190] - DEBUG - writing area: 132 dbnumber: 1 start: 4: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 10:58:06,201] - DEBUG - writing area: 132 dbnumber: 1 start: 5: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 10:58:06,209] - DEBUG - writing area: 132 dbnumber: 1 start: 6: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 10:58:06,219] - DEBUG - writing area: 132 dbnumber: 1 start: 7: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 10:58:06,230] - DEBUG - writing area: 132 dbnumber: 1 start: 8: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 10:58:06,240] - DEBUG - writing area: 132 dbnumber: 1 start: 9: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 10:58:06,251] - DEBUG - writing area: 132 dbnumber: 1 start: 10: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 10:58:06,258] - DEBUG - writing area: 132 dbnumber: 1 start: 11: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 10:58:06,269] - DEBUG - writing area: 132 dbnumber: 1 start: 12: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 10:58:06,276] - DEBUG - writing area: 132 dbnumber: 1 start: 13: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 10:58:06,285] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 10:58:27,226] - INFO - creating snap7 client
+[2020-12-01 10:58:27,226] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-12-01 10:58:27,226] - DEBUG - setting param number 2 to 102
+[2020-12-01 10:58:27,285] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 10:58:27,295] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 10:58:27,303] - DEBUG - writing area: 132 dbnumber: 1 start: 2: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 10:58:27,314] - DEBUG - writing area: 132 dbnumber: 1 start: 3: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 10:58:27,324] - DEBUG - writing area: 132 dbnumber: 1 start: 4: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 10:58:27,332] - DEBUG - writing area: 132 dbnumber: 1 start: 5: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 10:58:27,342] - DEBUG - writing area: 132 dbnumber: 1 start: 6: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 10:58:27,353] - DEBUG - writing area: 132 dbnumber: 1 start: 7: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 10:58:27,363] - DEBUG - writing area: 132 dbnumber: 1 start: 8: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 10:58:27,372] - DEBUG - writing area: 132 dbnumber: 1 start: 9: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 10:58:27,382] - DEBUG - writing area: 132 dbnumber: 1 start: 10: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 10:58:27,390] - DEBUG - writing area: 132 dbnumber: 1 start: 11: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 10:58:27,400] - DEBUG - writing area: 132 dbnumber: 1 start: 12: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 10:58:27,408] - DEBUG - writing area: 132 dbnumber: 1 start: 13: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 10:58:27,419] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2

@@ -1,0 +1,285 @@
+[2020-12-01 11:08:00,074] - INFO - creating snap7 client
+[2020-12-01 11:08:00,075] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-12-01 11:08:00,075] - DEBUG - setting param number 2 to 102
+[2020-12-01 11:08:12,567] - INFO - creating snap7 client
+[2020-12-01 11:08:12,567] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-12-01 11:08:12,567] - DEBUG - setting param number 2 to 102
+[2020-12-01 11:08:36,484] - INFO - creating snap7 client
+[2020-12-01 11:08:36,484] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-12-01 11:08:36,484] - DEBUG - setting param number 2 to 102
+[2020-12-01 11:09:03,456] - INFO - creating snap7 client
+[2020-12-01 11:09:03,456] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-12-01 11:09:03,456] - DEBUG - setting param number 2 to 102
+[2020-12-01 11:09:47,488] - INFO - creating snap7 client
+[2020-12-01 11:09:47,489] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-12-01 11:09:47,489] - DEBUG - setting param number 2 to 102
+[2020-12-01 11:10:05,151] - INFO - creating snap7 client
+[2020-12-01 11:10:05,151] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-12-01 11:10:05,151] - DEBUG - setting param number 2 to 102
+[2020-12-01 11:10:37,206] - INFO - creating snap7 client
+[2020-12-01 11:10:37,206] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-12-01 11:10:37,206] - DEBUG - setting param number 2 to 102
+[2020-12-01 11:14:46,426] - INFO - creating snap7 client
+[2020-12-01 11:14:46,426] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-12-01 11:14:46,426] - DEBUG - setting param number 2 to 102
+[2020-12-01 11:16:16,292] - INFO - creating snap7 client
+[2020-12-01 11:16:16,292] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-12-01 11:16:16,293] - DEBUG - setting param number 2 to 102
+[2020-12-01 11:24:32,245] - INFO - creating snap7 client
+[2020-12-01 11:25:20,466] - INFO - creating snap7 client
+[2020-12-01 11:38:34,690] - INFO - creating snap7 client
+[2020-12-01 11:38:34,692] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-12-01 11:38:34,692] - DEBUG - setting param number 2 to 102
+[2020-12-01 11:38:55,364] - INFO - creating snap7 client
+[2020-12-01 11:39:46,529] - INFO - creating snap7 client
+[2020-12-01 11:40:09,945] - INFO - creating snap7 client
+[2020-12-01 11:42:21,054] - INFO - creating snap7 client
+[2020-12-01 11:42:21,054] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-12-01 11:42:21,054] - DEBUG - setting param number 2 to 102
+[2020-12-01 11:43:13,118] - INFO - creating snap7 client
+[2020-12-01 11:44:08,318] - INFO - creating snap7 client
+[2020-12-01 11:44:08,318] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-12-01 11:44:08,318] - DEBUG - setting param number 2 to 102
+[2020-12-01 11:44:25,943] - INFO - creating snap7 client
+[2020-12-01 11:44:25,944] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-12-01 11:44:25,944] - DEBUG - setting param number 2 to 102
+[2020-12-01 11:45:11,924] - INFO - creating snap7 client
+[2020-12-01 11:45:11,924] - INFO - creating snap7 client
+[2020-12-01 11:45:11,924] - INFO - creating snap7 client
+[2020-12-01 11:45:11,924] - INFO - creating snap7 client
+[2020-12-01 11:45:11,924] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-12-01 11:45:11,924] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-12-01 11:45:11,924] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-12-01 11:45:11,924] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-12-01 11:45:11,924] - DEBUG - setting param number 2 to 102
+[2020-12-01 11:45:11,924] - DEBUG - setting param number 2 to 102
+[2020-12-01 11:45:11,924] - DEBUG - setting param number 2 to 102
+[2020-12-01 11:45:11,924] - DEBUG - setting param number 2 to 102
+[2020-12-01 11:45:12,026] - INFO - C:\Users\Administrator\Desktop\baosteel-decision-systemv1.12\statesClient\states_output.py - modbus_server - 建立1号站MODBUS-TCP服务器
+[2020-12-01 11:45:12,026] - INFO - C:\Users\Administrator\Desktop\baosteel-decision-systemv1.12\statesClient\states_output.py - modbus_server - 建立1号站MODBUS-TCP服务器
+[2020-12-01 11:45:12,026] - INFO - C:\Users\Administrator\Desktop\baosteel-decision-systemv1.12\statesClient\states_output.py - modbus_server - 建立1号站MODBUS-TCP服务器
+[2020-12-01 11:45:12,026] - INFO - C:\Users\Administrator\Desktop\baosteel-decision-systemv1.12\statesClient\states_output.py - modbus_server - 建立1号站MODBUS-TCP服务器
+[2020-12-01 11:45:12,032] - INFO - C:\Users\Administrator\Desktop\baosteel-decision-systemv1.12\statesClient\states_output.py - allocating_address - 1号站分配MODBUS-TCP地址
+[2020-12-01 11:45:12,032] - INFO - C:\Users\Administrator\Desktop\baosteel-decision-systemv1.12\statesClient\states_output.py - allocating_address - 1号站分配MODBUS-TCP地址
+[2020-12-01 11:45:12,032] - INFO - C:\Users\Administrator\Desktop\baosteel-decision-systemv1.12\statesClient\states_output.py - allocating_address - 1号站分配MODBUS-TCP地址
+[2020-12-01 11:45:12,032] - INFO - C:\Users\Administrator\Desktop\baosteel-decision-systemv1.12\statesClient\states_output.py - allocating_address - 1号站分配MODBUS-TCP地址
+[2020-12-01 11:45:12,033] - INFO - C:/Users/Administrator/Desktop/baosteel-decision-systemv1.12/statesClient/run_states.py - run - 数据连接成功
+[2020-12-01 11:45:12,033] - INFO - C:/Users/Administrator/Desktop/baosteel-decision-systemv1.12/statesClient/run_states.py - run - 数据连接成功
+[2020-12-01 11:45:12,033] - INFO - C:/Users/Administrator/Desktop/baosteel-decision-systemv1.12/statesClient/run_states.py - run - 数据连接成功
+[2020-12-01 11:45:12,033] - INFO - C:/Users/Administrator/Desktop/baosteel-decision-systemv1.12/statesClient/run_states.py - run - 数据连接成功
+[2020-12-01 11:45:12,036] - INFO - C:/Users/Administrator/Desktop/baosteel-decision-systemv1.12/statesClient/run_states.py - run - 数据开始交互
+[2020-12-01 11:45:12,036] - INFO - C:/Users/Administrator/Desktop/baosteel-decision-systemv1.12/statesClient/run_states.py - run - 数据开始交互
+[2020-12-01 11:45:12,036] - INFO - C:/Users/Administrator/Desktop/baosteel-decision-systemv1.12/statesClient/run_states.py - run - 数据开始交互
+[2020-12-01 11:45:12,036] - INFO - C:/Users/Administrator/Desktop/baosteel-decision-systemv1.12/statesClient/run_states.py - run - 数据开始交互
+[2020-12-01 11:45:12,080] - INFO - ('192.168.0.9', 27959) is connected with socket 960...
+[2020-12-01 11:45:12,080] - INFO - ('192.168.0.9', 27959) is connected with socket 960...
+[2020-12-01 11:45:12,080] - INFO - ('192.168.0.9', 27959) is connected with socket 960...
+[2020-12-01 11:45:12,080] - INFO - ('192.168.0.9', 27959) is connected with socket 960...
+[2020-12-01 11:45:13,036] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:13,036] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:13,036] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:13,036] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:13,041] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:13,041] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:13,041] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:13,041] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:13,052] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:45:13,052] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:45:13,052] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:45:13,052] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:45:14,065] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:14,065] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:14,065] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:14,065] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:14,075] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:14,075] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:14,075] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:14,075] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:14,085] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:45:14,085] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:45:14,085] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:45:14,085] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:45:15,094] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:15,094] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:15,094] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:15,094] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:15,102] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:15,102] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:15,102] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:15,102] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:15,111] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:45:15,111] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:45:15,111] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:45:15,111] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:45:16,121] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:16,121] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:16,121] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:16,121] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:16,128] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:16,128] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:16,128] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:16,128] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:16,139] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:45:16,139] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:45:16,139] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:45:16,139] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:45:17,148] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:17,148] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:17,148] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:17,148] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:17,159] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:17,159] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:17,159] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:17,159] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:17,167] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:45:17,167] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:45:17,167] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:45:17,167] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:45:18,179] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:18,179] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:18,179] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:18,179] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:18,187] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:18,187] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:18,187] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:18,187] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:45:18,196] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:45:18,196] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:45:18,196] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:45:18,196] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:46:05,849] - INFO - creating snap7 client
+[2020-12-01 11:46:05,849] - INFO - creating snap7 client
+[2020-12-01 11:46:05,849] - INFO - creating snap7 client
+[2020-12-01 11:46:05,849] - INFO - creating snap7 client
+[2020-12-01 11:46:05,849] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-12-01 11:46:05,849] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-12-01 11:46:05,849] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-12-01 11:46:05,849] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-12-01 11:46:05,849] - DEBUG - setting param number 2 to 102
+[2020-12-01 11:46:05,849] - DEBUG - setting param number 2 to 102
+[2020-12-01 11:46:05,849] - DEBUG - setting param number 2 to 102
+[2020-12-01 11:46:05,849] - DEBUG - setting param number 2 to 102
+[2020-12-01 11:46:05,937] - INFO - C:\Users\Administrator\Desktop\baosteel-decision-systemv1.12\statesClient\states_output.py - modbus_server - 建立1号站MODBUS-TCP服务器
+[2020-12-01 11:46:05,937] - INFO - C:\Users\Administrator\Desktop\baosteel-decision-systemv1.12\statesClient\states_output.py - modbus_server - 建立1号站MODBUS-TCP服务器
+[2020-12-01 11:46:05,937] - INFO - C:\Users\Administrator\Desktop\baosteel-decision-systemv1.12\statesClient\states_output.py - modbus_server - 建立1号站MODBUS-TCP服务器
+[2020-12-01 11:46:05,937] - INFO - C:\Users\Administrator\Desktop\baosteel-decision-systemv1.12\statesClient\states_output.py - modbus_server - 建立1号站MODBUS-TCP服务器
+[2020-12-01 11:46:05,940] - INFO - C:\Users\Administrator\Desktop\baosteel-decision-systemv1.12\statesClient\states_output.py - allocating_address - 1号站分配MODBUS-TCP地址
+[2020-12-01 11:46:05,940] - INFO - C:\Users\Administrator\Desktop\baosteel-decision-systemv1.12\statesClient\states_output.py - allocating_address - 1号站分配MODBUS-TCP地址
+[2020-12-01 11:46:05,940] - INFO - C:\Users\Administrator\Desktop\baosteel-decision-systemv1.12\statesClient\states_output.py - allocating_address - 1号站分配MODBUS-TCP地址
+[2020-12-01 11:46:05,940] - INFO - C:\Users\Administrator\Desktop\baosteel-decision-systemv1.12\statesClient\states_output.py - allocating_address - 1号站分配MODBUS-TCP地址
+[2020-12-01 11:46:05,943] - INFO - C:/Users/Administrator/Desktop/baosteel-decision-systemv1.12/statesClient/run_states.py - run - 数据连接成功
+[2020-12-01 11:46:05,943] - INFO - C:/Users/Administrator/Desktop/baosteel-decision-systemv1.12/statesClient/run_states.py - run - 数据连接成功
+[2020-12-01 11:46:05,943] - INFO - C:/Users/Administrator/Desktop/baosteel-decision-systemv1.12/statesClient/run_states.py - run - 数据连接成功
+[2020-12-01 11:46:05,943] - INFO - C:/Users/Administrator/Desktop/baosteel-decision-systemv1.12/statesClient/run_states.py - run - 数据连接成功
+[2020-12-01 11:46:05,944] - INFO - C:/Users/Administrator/Desktop/baosteel-decision-systemv1.12/statesClient/run_states.py - run - 数据开始交互
+[2020-12-01 11:46:05,944] - INFO - C:/Users/Administrator/Desktop/baosteel-decision-systemv1.12/statesClient/run_states.py - run - 数据开始交互
+[2020-12-01 11:46:05,944] - INFO - C:/Users/Administrator/Desktop/baosteel-decision-systemv1.12/statesClient/run_states.py - run - 数据开始交互
+[2020-12-01 11:46:05,944] - INFO - C:/Users/Administrator/Desktop/baosteel-decision-systemv1.12/statesClient/run_states.py - run - 数据开始交互
+[2020-12-01 11:46:06,030] - INFO - ('192.168.0.9', 28060) is connected with socket 952...
+[2020-12-01 11:46:06,030] - INFO - ('192.168.0.9', 28060) is connected with socket 952...
+[2020-12-01 11:46:06,030] - INFO - ('192.168.0.9', 28060) is connected with socket 952...
+[2020-12-01 11:46:06,030] - INFO - ('192.168.0.9', 28060) is connected with socket 952...
+[2020-12-01 11:46:06,944] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:06,944] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:06,944] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:06,944] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:06,951] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:06,951] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:06,951] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:06,951] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:06,961] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:46:06,961] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:46:06,961] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:46:06,961] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:46:07,971] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:07,971] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:07,971] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:07,971] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:07,979] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:07,979] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:07,979] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:07,979] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:07,990] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:46:07,990] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:46:07,990] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:46:07,990] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:46:09,000] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:09,000] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:09,000] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:09,000] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:09,006] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:09,006] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:09,006] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:09,006] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:09,016] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:46:09,016] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:46:09,016] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:46:09,016] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:46:10,026] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:10,026] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:10,026] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:10,026] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:10,035] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:10,035] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:10,035] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:10,035] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:10,044] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:46:10,044] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:46:10,044] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:46:10,044] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:46:45,493] - INFO - creating snap7 client
+[2020-12-01 11:46:45,493] - INFO - creating snap7 client
+[2020-12-01 11:46:45,493] - INFO - creating snap7 client
+[2020-12-01 11:46:45,493] - INFO - creating snap7 client
+[2020-12-01 11:46:45,493] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-12-01 11:46:45,493] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-12-01 11:46:45,493] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-12-01 11:46:45,493] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-12-01 11:46:45,493] - DEBUG - setting param number 2 to 102
+[2020-12-01 11:46:45,493] - DEBUG - setting param number 2 to 102
+[2020-12-01 11:46:45,493] - DEBUG - setting param number 2 to 102
+[2020-12-01 11:46:45,493] - DEBUG - setting param number 2 to 102
+[2020-12-01 11:46:45,579] - INFO - C:\Users\Administrator\Desktop\baosteel-decision-systemv1.12\statesClient\states_output.py - modbus_server - 建立1号站MODBUS-TCP服务器
+[2020-12-01 11:46:45,579] - INFO - C:\Users\Administrator\Desktop\baosteel-decision-systemv1.12\statesClient\states_output.py - modbus_server - 建立1号站MODBUS-TCP服务器
+[2020-12-01 11:46:45,579] - INFO - C:\Users\Administrator\Desktop\baosteel-decision-systemv1.12\statesClient\states_output.py - modbus_server - 建立1号站MODBUS-TCP服务器
+[2020-12-01 11:46:45,579] - INFO - C:\Users\Administrator\Desktop\baosteel-decision-systemv1.12\statesClient\states_output.py - modbus_server - 建立1号站MODBUS-TCP服务器
+[2020-12-01 11:46:45,584] - INFO - C:\Users\Administrator\Desktop\baosteel-decision-systemv1.12\statesClient\states_output.py - allocating_address - 1号站分配MODBUS-TCP地址
+[2020-12-01 11:46:45,584] - INFO - C:\Users\Administrator\Desktop\baosteel-decision-systemv1.12\statesClient\states_output.py - allocating_address - 1号站分配MODBUS-TCP地址
+[2020-12-01 11:46:45,584] - INFO - C:\Users\Administrator\Desktop\baosteel-decision-systemv1.12\statesClient\states_output.py - allocating_address - 1号站分配MODBUS-TCP地址
+[2020-12-01 11:46:45,584] - INFO - C:\Users\Administrator\Desktop\baosteel-decision-systemv1.12\statesClient\states_output.py - allocating_address - 1号站分配MODBUS-TCP地址
+[2020-12-01 11:46:45,585] - INFO - C:/Users/Administrator/Desktop/baosteel-decision-systemv1.12/statesClient/run_states.py - run - 数据连接成功
+[2020-12-01 11:46:45,585] - INFO - C:/Users/Administrator/Desktop/baosteel-decision-systemv1.12/statesClient/run_states.py - run - 数据连接成功
+[2020-12-01 11:46:45,585] - INFO - C:/Users/Administrator/Desktop/baosteel-decision-systemv1.12/statesClient/run_states.py - run - 数据连接成功
+[2020-12-01 11:46:45,585] - INFO - C:/Users/Administrator/Desktop/baosteel-decision-systemv1.12/statesClient/run_states.py - run - 数据连接成功
+[2020-12-01 11:46:45,587] - INFO - C:/Users/Administrator/Desktop/baosteel-decision-systemv1.12/statesClient/run_states.py - run - 数据开始交互
+[2020-12-01 11:46:45,587] - INFO - C:/Users/Administrator/Desktop/baosteel-decision-systemv1.12/statesClient/run_states.py - run - 数据开始交互
+[2020-12-01 11:46:45,587] - INFO - C:/Users/Administrator/Desktop/baosteel-decision-systemv1.12/statesClient/run_states.py - run - 数据开始交互
+[2020-12-01 11:46:45,587] - INFO - C:/Users/Administrator/Desktop/baosteel-decision-systemv1.12/statesClient/run_states.py - run - 数据开始交互
+[2020-12-01 11:46:45,697] - INFO - ('192.168.0.9', 28135) is connected with socket 952...
+[2020-12-01 11:46:45,697] - INFO - ('192.168.0.9', 28135) is connected with socket 952...
+[2020-12-01 11:46:45,697] - INFO - ('192.168.0.9', 28135) is connected with socket 952...
+[2020-12-01 11:46:45,697] - INFO - ('192.168.0.9', 28135) is connected with socket 952...
+[2020-12-01 11:46:46,587] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:46,587] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:46,587] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:46,587] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:46,596] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:46,596] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:46,596] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:46,596] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:46,606] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:46:46,606] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:46:46,606] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:46:46,606] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:46:47,618] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:47,618] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:47,618] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:47,618] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:47,627] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:47,627] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:47,627] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:47,627] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-12-01 11:46:47,634] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:46:47,634] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:46:47,634] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
+[2020-12-01 11:46:47,634] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2

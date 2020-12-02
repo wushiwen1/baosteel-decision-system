@@ -1,0 +1,292 @@
+[2020-11-30 10:35:47,756] - INFO - creating snap7 client
+[2020-11-30 10:35:47,756] - INFO - creating snap7 client
+[2020-11-30 10:36:08,593] - INFO - creating snap7 client
+[2020-11-30 10:36:08,593] - INFO - creating snap7 client
+[2020-11-30 10:38:21,111] - INFO - creating snap7 client
+[2020-11-30 10:38:21,112] - INFO - creating snap7 client
+[2020-11-30 10:38:21,112] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:38:21,112] - DEBUG - error text for 0x9274c
+[2020-11-30 10:38:21,112] - ERROR - b' ISO : An error occurred during send TCP : Connection timed out'
+[2020-11-30 10:40:57,980] - INFO - creating snap7 client
+[2020-11-30 10:40:57,980] - INFO - creating snap7 client
+[2020-11-30 10:41:41,640] - INFO - creating snap7 client
+[2020-11-30 10:41:41,641] - INFO - creating snap7 client
+[2020-11-30 10:41:41,641] - INFO - connecting to 192.168.0.10:102 rack 0 slot 0
+[2020-11-30 10:41:41,641] - DEBUG - setting param number 2 to 102
+[2020-11-30 10:41:41,791] - DEBUG - error text for 0x2751
+[2020-11-30 10:41:41,792] - ERROR - b' TCP : Unreachable peer'
+[2020-11-30 10:44:40,047] - INFO - creating snap7 client
+[2020-11-30 10:44:40,047] - INFO - creating snap7 client
+[2020-11-30 10:44:40,047] - INFO - connecting to 192.168.0.10:102 rack 0 slot 0
+[2020-11-30 10:44:40,047] - DEBUG - setting param number 2 to 102
+[2020-11-30 10:44:40,291] - DEBUG - error text for 0x2751
+[2020-11-30 10:44:40,291] - ERROR - b' TCP : Unreachable peer'
+[2020-11-30 10:45:18,137] - INFO - creating snap7 client
+[2020-11-30 10:45:18,138] - INFO - creating snap7 client
+[2020-11-30 10:45:18,138] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 10:45:18,138] - DEBUG - setting param number 2 to 102
+[2020-11-30 10:46:48,193] - INFO - creating snap7 client
+[2020-11-30 10:46:48,193] - INFO - creating snap7 client
+[2020-11-30 10:46:48,193] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 10:46:48,193] - DEBUG - setting param number 2 to 102
+[2020-11-30 10:47:04,363] - INFO - creating snap7 client
+[2020-11-30 10:47:04,363] - INFO - creating snap7 client
+[2020-11-30 10:47:04,364] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 10:47:04,364] - DEBUG - setting param number 2 to 102
+[2020-11-30 10:47:04,484] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:48:22,849] - INFO - creating snap7 client
+[2020-11-30 10:48:22,850] - INFO - creating snap7 client
+[2020-11-30 10:48:22,850] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 10:48:22,850] - DEBUG - setting param number 2 to 102
+[2020-11-30 10:48:22,931] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:54:59,692] - INFO - creating snap7 client
+[2020-11-30 10:54:59,692] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 10:54:59,692] - DEBUG - setting param number 2 to 102
+[2020-11-30 10:54:59,796] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:56:17,848] - INFO - creating snap7 client
+[2020-11-30 10:56:17,849] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 10:56:17,849] - DEBUG - setting param number 2 to 102
+[2020-11-30 10:56:17,930] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:57:09,523] - INFO - creating snap7 client
+[2020-11-30 10:57:09,523] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 10:57:09,523] - DEBUG - setting param number 2 to 102
+[2020-11-30 10:57:09,610] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:58:31,102] - INFO - creating snap7 client
+[2020-11-30 10:58:31,103] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 10:58:31,103] - DEBUG - setting param number 2 to 102
+[2020-11-30 10:58:31,197] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,095] - INFO - creating snap7 client
+[2020-11-30 10:59:35,095] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 10:59:35,095] - DEBUG - setting param number 2 to 102
+[2020-11-30 10:59:35,174] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,205] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,224] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,253] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,266] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,274] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,284] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,295] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,303] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,313] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,323] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,334] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,344] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,352] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,363] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,397] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,418] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,449] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,458] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,468] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,476] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,489] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,497] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,507] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,515] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,526] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,536] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,544] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,573] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,597] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,610] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,634] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,646] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,654] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,662] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,673] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,683] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,694] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,702] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,712] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,720] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,730] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,744] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,770] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,798] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,817] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,830] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,840] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,848] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,859] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,867] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,877] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,885] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,896] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,906] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,917] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,925] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,961] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:35,985] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,003] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,029] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,043] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,051] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,061] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,071] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,080] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,092] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,100] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,111] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,119] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,129] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,140] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,174] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,192] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,216] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,229] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,240] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,250] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,260] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,269] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,279] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,290] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,300] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,310] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,342] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,363] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,386] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,400] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,410] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,418] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,428] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,439] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,447] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,457] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,468] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,476] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,486] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,496] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,525] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,552] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,575] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,586] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,596] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,606] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,615] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,625] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,633] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,646] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,654] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,664] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,672] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,683] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,696] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,727] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,743] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,759] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,777] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,790] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,801] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,809] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,819] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,827] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,837] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,848] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,869] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,882] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,895] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,927] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,948] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,971] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,984] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:36,995] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:37,003] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:37,013] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:37,021] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:37,031] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:37,039] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:37,050] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:37,060] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 10:59:37,068] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 11:00:04,024] - INFO - creating snap7 client
+[2020-11-30 11:00:04,024] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 11:00:04,025] - DEBUG - setting param number 2 to 102
+[2020-11-30 11:00:22,816] - INFO - creating snap7 client
+[2020-11-30 11:00:22,816] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 11:00:22,816] - DEBUG - setting param number 2 to 102
+[2020-11-30 11:01:59,059] - INFO - creating snap7 client
+[2020-11-30 11:01:59,059] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 11:01:59,059] - DEBUG - setting param number 2 to 102
+[2020-11-30 11:02:32,207] - INFO - creating snap7 client
+[2020-11-30 11:02:32,208] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 11:02:32,208] - DEBUG - setting param number 2 to 102
+[2020-11-30 11:02:43,419] - INFO - creating snap7 client
+[2020-11-30 11:02:43,420] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 11:02:43,420] - DEBUG - setting param number 2 to 102
+[2020-11-30 11:04:14,711] - INFO - creating snap7 client
+[2020-11-30 11:04:14,711] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 11:04:14,711] - DEBUG - setting param number 2 to 102
+[2020-11-30 11:05:37,987] - INFO - creating snap7 client
+[2020-11-30 11:05:37,987] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 11:05:37,987] - DEBUG - setting param number 2 to 102
+[2020-11-30 11:05:49,351] - INFO - creating snap7 client
+[2020-11-30 11:06:48,734] - INFO - creating snap7 client
+[2020-11-30 11:11:12,120] - INFO - creating snap7 client
+[2020-11-30 11:11:12,120] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 11:11:12,121] - DEBUG - setting param number 2 to 102
+[2020-11-30 11:12:18,827] - INFO - creating snap7 client
+[2020-11-30 11:12:18,827] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 11:12:18,827] - DEBUG - setting param number 2 to 102
+[2020-11-30 11:30:18,356] - INFO - creating snap7 client
+[2020-11-30 11:30:56,358] - INFO - creating snap7 client
+[2020-11-30 11:42:23,161] - INFO - creating snap7 client
+[2020-11-30 11:52:43,810] - INFO - creating snap7 client
+[2020-11-30 11:52:43,810] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 11:52:43,810] - DEBUG - setting param number 2 to 102
+[2020-11-30 11:52:43,908] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 11:53:05,450] - INFO - creating snap7 client
+[2020-11-30 11:53:05,450] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 11:53:05,450] - DEBUG - setting param number 2 to 102
+[2020-11-30 11:53:05,556] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 11:53:18,288] - INFO - creating snap7 client
+[2020-11-30 11:53:18,289] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 11:53:18,289] - DEBUG - setting param number 2 to 102
+[2020-11-30 11:53:18,291] - DEBUG - error text for 0x2751
+[2020-11-30 11:53:18,291] - ERROR - b' TCP : Unreachable peer'
+[2020-11-30 11:53:32,723] - INFO - creating snap7 client
+[2020-11-30 11:53:32,723] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 11:53:32,724] - DEBUG - setting param number 2 to 102
+[2020-11-30 11:53:32,804] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 11:54:30,787] - INFO - creating snap7 client
+[2020-11-30 11:54:30,787] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 11:54:30,787] - DEBUG - setting param number 2 to 102
+[2020-11-30 11:54:30,791] - DEBUG - error text for 0x2751
+[2020-11-30 11:54:30,791] - ERROR - b' TCP : Unreachable peer'
+[2020-11-30 11:55:06,449] - INFO - creating snap7 client
+[2020-11-30 11:55:06,449] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 11:55:06,449] - DEBUG - setting param number 2 to 102
+[2020-11-30 11:55:06,576] - INFO - C:\Users\Administrator\Desktop\baosteel-decision-system\l2\communication.py - snap7_rw - 写数据,需要把字转成字节
+[2020-11-30 11:55:06,577] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 11:55:28,012] - INFO - creating snap7 client
+[2020-11-30 11:55:28,012] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 11:55:28,012] - DEBUG - setting param number 2 to 102
+[2020-11-30 11:55:28,136] - INFO - C:\Users\Administrator\Desktop\baosteel-decision-system\l2\communication.py - snap7_rw - 写数据,需要把字转成字节
+[2020-11-30 11:55:28,137] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 11:55:33,878] - INFO - creating snap7 client
+[2020-11-30 11:55:33,878] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 11:55:33,879] - DEBUG - setting param number 2 to 102
+[2020-11-30 11:55:34,008] - INFO - C:\Users\Administrator\Desktop\baosteel-decision-system\l2\communication.py - snap7_rw - 写数据,需要把字转成字节
+[2020-11-30 11:55:34,008] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 12:17:57,956] - INFO - creating snap7 client
+[2020-11-30 12:17:57,957] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 12:17:57,957] - DEBUG - setting param number 2 to 102
+[2020-11-30 12:17:58,043] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 14:04:29,007] - INFO - creating snap7 client
+[2020-11-30 14:04:29,007] - INFO - creating snap7 client
+[2020-11-30 14:04:29,008] - INFO - connecting to 192.168.0.5:102 rack 0 slot 0
+[2020-11-30 14:04:29,008] - DEBUG - setting param number 2 to 102
+[2020-11-30 14:04:29,100] - DEBUG - writing area: 132 dbnumber: 1 start: 0: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 14:04:29,127] - DEBUG - writing area: 132 dbnumber: 1 start: 1: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 14:04:29,148] - DEBUG - writing area: 132 dbnumber: 1 start: 2: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 14:04:29,169] - DEBUG - writing area: 132 dbnumber: 1 start: 3: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 14:04:29,185] - DEBUG - writing area: 132 dbnumber: 1 start: 4: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 14:04:29,195] - DEBUG - writing area: 132 dbnumber: 1 start: 5: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 14:04:29,203] - DEBUG - writing area: 132 dbnumber: 1 start: 6: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 14:04:29,213] - DEBUG - writing area: 132 dbnumber: 1 start: 7: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 14:04:29,221] - DEBUG - writing area: 132 dbnumber: 1 start: 8: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 14:04:29,232] - DEBUG - writing area: 132 dbnumber: 1 start: 9: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 14:04:29,240] - DEBUG - writing area: 132 dbnumber: 1 start: 10: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 14:04:29,250] - DEBUG - writing area: 132 dbnumber: 1 start: 11: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 14:04:29,261] - DEBUG - writing area: 132 dbnumber: 1 start: 12: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 14:04:29,271] - DEBUG - writing area: 132 dbnumber: 1 start: 13: size 1: wordlen 2 type: <class 'ctypes.c_byte'>
+[2020-11-30 14:04:29,279] - DEBUG - reading area: 132 dbnumber: 1 start: 0: amount 44: wordlen: 2
